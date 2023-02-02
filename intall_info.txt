@@ -1,0 +1,85 @@
+Credit :
+Mapping by patoche#4702
+
+WELCOME TO BIKER WORLD V2 ! 
+
+You CAN'T use on same time the both mapping ! You need to choice Paleto or City center
+
+-----------------------------------------------------------------------------
+Thank you for purchasing the mapping
+
+To avoid LEAK because it would be a shame to share this mapping:
+Do not give access to your server to developers in whom you do not have
+ the extreme confidence. They can work on a localhost because know that they 
+can recover all your resources. Be smart and careful.
+-----------------------------------------------------------------------------
+Install : 
+
+Mapping
+step 1 :  Copy/Past the folder " paleto_moto_v2 " on your resource folder .
+step 2 : Open your server.cfg and Start/Encure paleto_moto_v2 .
+
+
+------------------------------------------------------------------------------
+
+
+MOTO DEALER : 
+
+place : small door
+Name of door : v_corp_hicksdoor
+position : X:53.14657 Y:6482.807 Z:31.98989
+
+place : big orange door
+Name of door : patoche_biker_patdoor1
+position : X:53.66923 Y:6482.807 Z:31.98989
+
+
+place : office door
+Name of door : v_ilev_cf_officedoor
+position : X:35.74241 Y:6486.689 Z:31.58792
+
+
+-----------------------------------------------------------------
+
+MOTO MECANIC
+
+place : meeting room / locker room
+Name of door : v_ilev_j2_door
+position : X:29.76743 Y:6475.497 Z:32.0385
+
+place : chest safe
+Name of door : v_ilev_j2_door
+position : X:34.16821 Y:6472.285 Z:32.0405
+
+place : toilet
+Name of door : ba_prop_door_club_trad_wc
+position : X:40.16068 Y:6471.361 Z:32.0503
+
+place : Entrance garage door
+Name of door : biker_patoche_door
+position : X:37.42729 Y:6454.816 Z:32.28593
+
+-----------------------------------------------------------------
+BAR
+
+place : DOUBLE DOOR - LEFT
+Name of door : patoche_biker_doorsaloon
+position : X:22.98454 Y:6449.299 Z:31.46791
+
+place : DOUBLE DOOR - RIGHT
+Name of door : patoche_biker_doorsaloon
+position : X:21.93999 Y:6450.331 Z:31.46791
+
+place : normal door
+Name of door : patoche_biker_bardoor
+position : X:16.19434 Y:6437.494 Z:31.6042
+
+place : BIG DOOR
+Name of door : patoche_biker_bigdoor2
+position : X:2.179981 Y:6448.47 Z:30.46551
+
+
+
+
+
+
